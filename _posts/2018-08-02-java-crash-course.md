@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Crash course Java"
-date:   2014-09-10 20:45:35
+date:   2018-08-02
 categories: 
 ---
 
