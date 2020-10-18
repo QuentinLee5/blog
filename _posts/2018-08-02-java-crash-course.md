@@ -5,8 +5,6 @@ date:   2014-09-10 20:45:35
 categories: 
 ---
 
-## Crash course Java
-
 In this blog post I’m not really going to talk about a certain topic, but I’m going to give a crash course about the programming language Java. As you know I’m a computer science student and I noticed that students without any programming experience are struggling for days with simple Java exercises they get in the first weeks of college. To help those students I’m going give a crash course in Java so new computer science students can have a little experience before going to college.
 
 In this post I’m going to talk about the programming concepts I think are most important to know before going to college. So I’m going to talk about:
